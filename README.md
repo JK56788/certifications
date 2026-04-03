@@ -42,4 +42,4 @@ Completed a 7-day intensive data camp focused on building foundational skills in
 ## 🔗 Related Work
 
 * Anime Recommendation System (WIP)
-  https://github.com/JK56788/anime-recommender
+  [https://github.com/JK56788/anime-recommender](https://github.com/JK56788/anime-recommender-system)
